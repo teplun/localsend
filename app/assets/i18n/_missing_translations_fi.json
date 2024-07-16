@@ -5,7 +5,7 @@
   ],
   "settingsTab": {
     "general": {
-      "showInContextMenu": "Show LocalSend in context menu"
+      "showInContextMenu": "Näytä LocalSend kontekstivalikossa"
     },
     "receive": {
       "requirePin": "@:webSharePage.requirePin"
@@ -13,24 +13,24 @@
   },
   "receiveHistoryPage": {
     "entryActions": {
-      "showInFolder": "Show in folder"
+      "showInFolder": "Näytä kansiossa"
     }
   },
   "sendPage": {
     "tooManyAttempts": "@:web.tooManyAttempts"
   },
   "webSharePage": {
-    "requirePin": "Require PIN",
-    "pinHint": "The PIN is \"{pin}\""
+    "requirePin": "Vaadi PIN-koodi",
+    "pinHint": "PIN-koodi on \"{pin}\""
   },
   "dialogs": {
     "pin": {
-      "title": "Enter PIN"
+      "title": "Anna PIN-koodi"
     }
   },
   "web": {
-    "enterPin": "Enter PIN",
-    "invalidPin": "Invalid PIN",
-    "tooManyAttempts": "Too many attempts"
+    "enterPin": "Anna PIN-koodi",
+    "invalidPin": "Väärä PIN-koodi",
+    "tooManyAttempts": "Liian monta yritystä"
   }
 }
